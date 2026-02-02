@@ -1,7 +1,7 @@
 import numpy as np
 from test_utils import test
 
-### ex 2        
+### ex 2 - G6669 2840
 def basic_sigmoid_test(target):
     x = 1
     expected_output = 0.7310585786300049
